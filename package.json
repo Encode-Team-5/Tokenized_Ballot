@@ -1,5 +1,5 @@
 {
-  "name": "ERC20_tokon",
+  "name": "tokenizedVotes",
   "packageManager": "yarn@3.2.4",
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
@@ -24,6 +24,7 @@
     "typescript": ">=4.5.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0"
+    "@openzeppelin/contracts": "^4.8.0",
+    "dotenv": "^16.0.3"
   }
 }
