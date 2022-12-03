@@ -13,9 +13,10 @@
 
 ### Testnet Link:
 
-Ballot Contract: https://goerli.etherscan.io/address/0x72a0905bc2f28c0139ae2d99b1978b34a4ef1bfc
+Ballot Contract: https://goerli.etherscan.io/address/0xafa9632201672cc885b81139e528cf42310bfbf2
 
-Token Contract : https://goerli.etherscan.io/address/0xD7c5c90532a355B3Ef091b8Ef5557f9fe04Db201
+Token Contract : https://goerli.etherscan.io/address/0xdc55fdB0a0FaB0Ed59e8807E2677ca0Fb50E416a
+
 
 ## Team 5 
 | USER                    | ADDRESS                                       |
